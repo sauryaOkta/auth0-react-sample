@@ -1,0 +1,6 @@
+api/.env
+api/.DS_Store
+frontend/.env
+frontend/.gitignore
+.DS_Store
+package-lock.json
